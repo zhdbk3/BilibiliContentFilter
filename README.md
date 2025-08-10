@@ -26,6 +26,8 @@ Hippocratic License 3.0 + Copyleft module
 
 1. 安装脚本猫 (ScriptCat) 浏览器插件
 2. 进入脚本猫主页 > 已安装脚本 > 新建脚本 > 本地导入 > 选择 `bilibiliContentFilter.user.js`
+
+   或者也可以直接在 https://scriptcat.org/zh-CN/script-show-page/3978 安装
 3. 点击该脚本的设置（小齿轮⚙图标），设置屏蔽规则，格式这样写：
    ```markdown
    - 规则 1
