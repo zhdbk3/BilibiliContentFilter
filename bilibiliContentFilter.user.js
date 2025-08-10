@@ -9,6 +9,8 @@
 // @grant        GM_xmlhttpRequest
 // @connect      *
 // @license      Hippocratic 3.0 (HL3-CL)
+// @website      https://scriptcat.org/zh-CN/script-show-page/3978
+// @source       https://github.com/zhdbk3/BilibiliContentFilter
 // @icon         https://www.bilibili.com/favicon.ico
 // ==/UserScript==
 
