@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         哔哩哔哩内容过滤器
 // @namespace    https://github.com/zhdbk3
-// @version      0.1.0
+// @version      0.1.1
 // @description  设置指定的规则，利用 AI 审核屏蔽掉你不想看的视频！
 // @author       着火的冰块nya
 // @match        https://*.bilibili.com/*
